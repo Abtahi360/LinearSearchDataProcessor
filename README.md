@@ -10,5 +10,3 @@ LinearSearchDataProcessor is a C++ program designed to demonstrate the linear se
 1. void linear_Search(int a[], int n, int num): Searches for the specified number in the array and reports its occurrence and indices.
 2. void data_generate(int n, int data): Generates a file with n random integers.
 3. void data_read(int n, int a[]): Reads data from the file into an array.
-
-**This game is perfect for beginners learning Python and game logic**
